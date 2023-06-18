@@ -35,7 +35,7 @@
 <!--fin gif animado-->
 
 <!--sobre mi -->
-### 🧐 More About Me:
+### 🧐 About Me:
 
 - 👀 &nbsp;  I am currently open to new job opportunities.
 - 🌱 &nbsp;  I am currently learning phyton development, some vuejs, react, plus learning QA for software development and some BI ;
@@ -47,85 +47,62 @@
 - :sparkles: I also like to weld in my free time, there is always something to create or repair.
 <!-- fin -->
 <br>
+
+
+> 👨🏻‍💻 a little more about me
 <h2 align="left"> 🔨 Languages and Tools:</h2>
-<br>
-<br>
-
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="https://ipappg.edu.pe/blog/wp-content/uploads/2022/05/mssqlserver.png" alt="mongodb" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mongodb" width="45" height="55"/>
-  
-</p>
-<br>
-
-
-
 > Tools, languages, and other things that I like to work with.
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3>Languages/Frameworks I'm good at:</h3>
+ <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="java" width="65" height="65"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="spring" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="GIT" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="GIT" width="55" height="55"/>
+   
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="spring" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mongodb" width="45" height="55"/>
+ </p>
+<h3>I also have knowledge in :</h3>
+ <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mongodb" width="45" height="55"/>
+  <img src="https://ipappg.edu.pe/blog/wp-content/uploads/2022/05/mssqlserver.png" alt="mongodb" width="45" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="mongodb" width="45" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="mongodb" width="45" height="55"/>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-  </tr>
-</table>
-<br>
-<br>
+ 
+
+   
+ </p>
+### Languages/Frameworks I'm learning :
+ <p align="center"> 
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"  width="90" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"  width="90" height="45"/>
+  
+
+   
+ </p>
+
+<a href="https://expressjs.com">
+  <img alt="Express" title="Express" src="https://github.com/cheesits456/cheesits456/raw/master/icons/express.png" height="42">
+</a>
+<a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42"></a>
+
+### Environments I work with:
+
+<a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
+<a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a>
+<a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/cheesits456/cheesits456/raw/master/icons/packages.png" height="42"></a>
+<a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a>
+<a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" height="42"></a>
+<a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a>
+<a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a>
 
 
 
