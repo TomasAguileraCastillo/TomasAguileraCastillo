@@ -19,12 +19,12 @@
   <img align='left' alt="linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height='18px'/>
 </a>
 <!--twitter-->
-<a href='https://twitter.com/jharahul98/'>
+<a href=''>
   <img align='left' alt="twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" height='18px'/>
 </a>
 <!--kaglee-->
-<a href='https://www.kaggle.com/rahuljha98/'>
-  <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/>
+<a href=''>
+  <img alt="kaggle" src="" height='18px'/>
 </a>
 
 <!--fin Redes-->
