@@ -24,7 +24,7 @@
 </a>
 <!--kaglee-->
 <a href=''>
-  <img alt="kaggle" src="" height='18px'/>
+  <img alt="kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height='18px'/>
 </a>
 
 <!--fin Redes-->
