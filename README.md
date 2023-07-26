@@ -8,8 +8,8 @@
     <img src="https://komarev.com/ghpvc/?username=TomasAguileraCastillo" alt="page views" />
   </a>
     <!--stackoverflow-->
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  <a href="https://stackoverflow.com/users/22093901">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/22093901?color=orange&label=reputation&logo=stackoverflow">
   </a>
 </p>
 <!-- fin Cinta-->
