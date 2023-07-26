@@ -1,6 +1,5 @@
 <!-- encabezado-->
-<h1 align="left" >:wave: Hola!, soy Tomás Aguilera.<h5 align="left" >:wave: Hello! I'm Tomás Aguilera.</h5></h1>
-<h5 align="left" >:wave: Hello! I'm Tomás Aguilera.</h5>
+<h1 align="left" >:wave: Hello! I'm Tomás Aguilera.</h1>
 <h3 align="left">I do SW/Platforms/DevOps/Support/Engineering things</h3>
 <!--inicio cinta -->
 <p align="left">
