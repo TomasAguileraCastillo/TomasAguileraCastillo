@@ -49,7 +49,6 @@
 
 <h2 align="left"> 🔨 Languages and Tools:</h2>
 <br>
-<br>
 <h3>Languages/Frameworks Skill :</h3>
  <p align="center">
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="java" width="65" height="65"/>
