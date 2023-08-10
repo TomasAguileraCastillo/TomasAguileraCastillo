@@ -1,5 +1,5 @@
 <!-- encabezado-->
-<h1 align="left" >:wave: Hello! I'm Tomás Aguilera.</h1>
+<h1 align="left" >:wave: Hola! Soy Tomás Aguilera <small>Hello! I'm Tomás Aguilera.</small></h1>
 <p>
 <h3 align="left">Hago cosas de SW/Plataformas/DevOps/Soporte/Ingeniería de software.<small>I do SW/Platforms/DevOps/Support/Engineering things.</small></h3>
   
