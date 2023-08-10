@@ -2,7 +2,6 @@
 <h1 align="left" >:wave: Hello! I'm Tomás Aguilera.</h1>
 <p>
 <h3 align="left">Hago cosas de SW/Plataformas/DevOps/Soporte/Ingeniería de software.</h3>
-  Para abrir este archivo necesitarás el programa <strong>Manz9000</strong>.
   <small>I do SW/Platforms/DevOps/Support/Engineering things.</small>
 </p>
 <!--inicio cinta -->
