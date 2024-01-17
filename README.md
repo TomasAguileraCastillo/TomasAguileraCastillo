@@ -91,6 +91,12 @@
 <h3 align="left">I do SW/Platforms/DevOps/Support/Engineering things.</h3>
   
 </p>
+
+
+
+
+
+***********************************************************************************************************************************
 <!--inicio cinta -->
 <p align="left">
   <!--visitas de perfil-->
