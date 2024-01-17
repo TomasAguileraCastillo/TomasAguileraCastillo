@@ -39,7 +39,7 @@
 ### 🧐 About Me:
 
 - 👀 &nbsp; Actualmente, estoy abierto a nuevas oportunidades laborales.
-- 🌱 &nbsp; También estoy aprendiendo desarrollo en phyton, algo de vuejs y react, algunos cursos de QA para desarrollo de software y algo de BI.
+- 🌱 &nbsp; También estoy aprendiendo desarrollo en phyton, algo de Laravel y react, algunos cursos de QA para desarrollo de software y algo de BI.
 - 💬 &nbsp; Pregúntame sobre cualquier cosa relacionada con la tecnología de Desarrollo, si puedo ayudar y sé sobre el Tema, estaré encantado de colaborar.
 - 📫 &nbsp; No dudes en ponerte en contacto conmigo en mi página de LinkedIn o por Correo.
 - 📝 &nbsp; Echa un vistazo a mi currículum sin problema.
