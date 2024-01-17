@@ -43,8 +43,8 @@
 - 💬 &nbsp; Pregúntame sobre cualquier cosa relacionada con la tecnología de Desarrollo, si puedo ayudar y sé sobre el Tema, estaré encantado de colaborar.
 - 📫 &nbsp; No dudes en ponerte en contacto conmigo en mi página de LinkedIn o por Correo.
 - 📝 &nbsp; Echa un vistazo a mi currículum sin problema.
-- 📚 &nbsp; Cuando tengo tiempo libre, leo alguna novelas de fantasía y ficción o mi libro Favorito: El Señor de los Anillos 💞️, lo he leído muchas veces tambien las Peiculas.
-- :swimmer: una de mis pasatiempos es la natación o andar en bicicleta, tambien salir a correr o caminar un poco.
+- 📚 &nbsp; Cuando tengo tiempo libre, leo algunas novelas de fantasía y ficción o mi libro Favorito: El Señor de los Anillos 💞️, lo he leído muchas veces tambien las Peliculas.
+- :swimmer: uno de mis pasatiempos es la natación o andar en bicicleta, tambien salir a correr o caminar un poco.
 - :sparkles: También me gusta soldar en mi tiempo libre, siempre hay algo que crear o reparar.
 
 <!-- fin -->
