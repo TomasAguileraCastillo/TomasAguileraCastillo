@@ -1,7 +1,7 @@
 <!-- encabezado-->
 <h1 align="left" >:wave: Hola! Soy Tomás Aguilera</h1>
 <p>
-<h3 align="left">Hago Cosas relacionadas con Platformas Webs /DevOps / Soporte Informatico / cosas de Ingenieria Informatica.</h3>
+<h3 align="left">Hago Cosas relacionadas con Platformas Webs / Soporte Informatico / cosas de Ingenieria Informatica.</h3>
   
 </p>
 <!--inicio cinta -->
@@ -39,11 +39,11 @@
 ### 🧐 About Me:
 
 - 👀 &nbsp; Actualmente, estoy abierto a nuevas oportunidades laborales.
-- 🌱 &nbsp; También estoy aprendiendo desarrollo en phyton, algo de Laravel y react, algunos cursos de QA para desarrollo de software y algo de BI.
+- 🌱 &nbsp; También estoy aprendiendo un poco de desarrollo en phyton, algo de Laravel y algo react, un poco de QA para desarrollo de software y algo de BI.
 - 💬 &nbsp; Pregúntame sobre cualquier cosa relacionada con la tecnología de Desarrollo, si puedo ayudar y sé sobre el Tema, estaré encantado de colaborar.
 - 📫 &nbsp; No dudes en ponerte en contacto conmigo en mi página de LinkedIn o por Correo.
-- 📝 &nbsp; Echa un vistazo a mi currículum sin problema.
-- 📚 &nbsp; Cuando tengo tiempo libre, leo algunas novelas de fantasía y ficción o mi libro Favorito: El Señor de los Anillos 💞️, lo he leído muchas veces tambien las Peliculas.
+- 📝 &nbsp; Echa un vistazo a mi currículum sin problemas en mi LinkedIn.
+- 📚 &nbsp; Cuando tengo tiempo libre, leo algunas novelas de fantasía y ficción o mi libro Favorito: El Señor de los Anillos 💞️, lo he leído muchas veces tambien muchas veces he visto las Peliculas.
 - :swimmer: uno de mis pasatiempos es la natación o andar en bicicleta, tambien salir a correr o caminar un poco.
 - :sparkles: También me gusta soldar en mi tiempo libre, siempre hay algo que crear o reparar.
 
