@@ -43,7 +43,7 @@
 - 💬 &nbsp; Pregúntame sobre cualquier cosa relacionada con la tecnología de Desarrollo, si puedo ayudar y sé sobre el Tema, estaré encantado de colaborar.
 - 📫 &nbsp; No dudes en ponerte en contacto conmigo en mi página de LinkedIn o por Correo.
 - 📝 &nbsp; Echa un vistazo a mi currículum sin problemas en mi LinkedIn.
-- 📚 &nbsp; Cuando tengo tiempo libre, leo algunas novelas de fantasía y ficción o mi libro Favorito: El Señor de los Anillos 💞️, lo he leído muchas veces tambien muchas veces he visto las Peliculas.
+- 📚 &nbsp; Cuando tengo tiempo libre, leo algunas novelas de fantasía y ficción o mi libro Favorito: El Señor de los Anillos 💞️, lo he leído muchas veces, tambien muchas veces he visto las Peliculas.
 - :swimmer: uno de mis pasatiempos es la natación o andar en bicicleta, tambien salir a correr o caminar un poco.
 - :sparkles: También me gusta soldar en mi tiempo libre, siempre hay algo que crear o reparar.
 
@@ -87,7 +87,7 @@
 <!-- encabezado-->
 <h1 align="left" >:wave: Hola! Soy Tomás Aguilera</h1><small>Hello! I'm Tomás Aguilera.</small>
 <p>
-<h3 align="left">I do SW/Platforms/DevOps/Support/Engineering things.</h3>
+<h3 align="left">I do SW/Platforms/Support/Engineering things.</h3>
   
 </p>
 
@@ -131,7 +131,7 @@
 ### 🧐 About Me:
 
 - 👀 &nbsp; I am currently open to new job opportunities.
-- 🌱 &nbsp; I am also learning phyton development, some vuejs, react, as well as learning QA for software development and some BI ;
+- 🌱 &nbsp; I am also learning phyton development, react, as well as learning QA for software development and some BI ;
 - 💬 &nbsp; Ask me about anything tech related if I can help and I know about it, I'm happy to help;
 - 📫 &nbsp; Feel free to reach out on my LinkedIn page.
 - 📝 &nbsp; Check out my resume no problem.
