@@ -63,8 +63,7 @@
 <h3>También tengo conocimientos en:</h3>
  <p align="center">
    
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mongodb" width="45" height="55"/>
-  <img src="https://ipappg.edu.pe/blog/wp-content/uploads/2022/05/mssqlserver.png" alt="mongodb" width="75" height="55"/>
+   <img src="https://ipappg.edu.pe/blog/wp-content/uploads/2022/05/mssqlserver.png" alt="" width="75" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="mongodb" width="45" height="55"/>
   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="mongodb" width="45" height="55"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="mongodb" width="45" height="55"/>
