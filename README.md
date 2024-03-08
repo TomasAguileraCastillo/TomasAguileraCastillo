@@ -45,7 +45,7 @@
 - 📝 &nbsp; Echa un vistazo a mi currículum sin problemas en mi LinkedIn.
 - 📚 &nbsp; Cuando tengo tiempo libre, leo algunas novelas o mi libro Favorito: El Señor de los Anillos 💞️, lo he varias veces, tambien muchas veces he visto las Peliculas.
 - :swimmer: uno de mis pasatiempos es la natación o andar en bicicleta, tambien salir a correr o caminar un poco.
-- :sparkles: También me gusta soldar cosas en mi tiempo libre, siempre hay algo que crear o reparar.
+- :sparkles: También me gusta soldar cosas, en mi tiempo libre, siempre hay algo que crear o reparar.
 
 <!-- fin -->
 <br>
