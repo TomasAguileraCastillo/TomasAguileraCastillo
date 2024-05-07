@@ -74,7 +74,6 @@
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"  width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"  width="89" height="55"/>
   <img src= https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/cypress.svg  width="55" height="55"/>
-  <img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/selenium.png"  width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="python" width="85" height="55"/>
  </p>
