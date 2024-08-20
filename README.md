@@ -35,15 +35,21 @@ trato de equilibrar mi tiempo con algo de :swimmer: natación bicicleta, tambien
 
  <!--redes Sociales-->
 <h3>Conecte conmigo: </h3>
-
-<a href='https://www.linkedin.com/in/TomásAguilera/'>
-  <img align='left' alt="linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height='30'/>
-</a>
-<br>
-<br>
+<div>en Mi : 
+      <a href='https://www.linkedin.com/in/TomásAguilera/'>
+        <img alt="linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height='30'/>
+      </a>
+    
+  
+  <span></span>
+<div>
+  <p>
 
 o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
 
+  </p>
+</div>
+</div>
 <!--fin Redes-->
 
 
