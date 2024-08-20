@@ -12,17 +12,9 @@
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/22093901?color=orange&label=reputation&logo=stackoverflow">
   </a>
 </p>
-<!-- fin Cinta-->
-<!--redes Sociales-->
-<h3>Conecte conmigo: </h3>
 
-<a href='https://www.linkedin.com/in/TomásAguilera/'>
-  <img align='left' alt="linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height='30'/>
-</a>
-<br>
-<h1>📧</h1>[tomasaguilerac@live.cl](tomasaguilerac@live.cl)
-<br><br>
-<!--fin Redes-->
+
+
 <!--gif animado-->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
 <!--fin gif animado-->
@@ -41,9 +33,26 @@
 trato de equilibrar mi tiempo con algo de :swimmer: natación bicicleta, tambien salir a correr o caminar un poco.
 - :sparkles: sé Soldar tambien me gusta eso, siempre hay algo que crear o reparar.
 
+ <!--redes Sociales-->
+<h3>Conecte conmigo: </h3>
+
+<a href='https://www.linkedin.com/in/TomásAguilera/'>
+  <img align='left' alt="linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height='30'/>
+</a>
+<br>
+<br>
+
+o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
+<br><br>
+<!--fin Redes-->
+<!--gif animado-->
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
+<!--fin gif animado-->
+
 <!-- fin -->
 <br>
 
+##
 <h2 align="left"> 🔨 Lenguajes y Herramientas: 
 <br><br>
 </h2>
