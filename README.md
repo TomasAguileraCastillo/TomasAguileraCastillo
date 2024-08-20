@@ -1,8 +1,7 @@
 <!-- encabezado-->
 <h1 align="left" >:wave: Hola! Soy Tomás Aguilera</h1>
 <p>
-<h3 align="left">Hago Cosas relacionadas con Platformas Webs / Soporte Informatico / cosas de Ingenieria Informatica.</h3>
-  
+
 </p>
 <!--inicio cinta -->
 <p align="left">
@@ -39,7 +38,7 @@
 ### 🧐 About Me:
 
 - 👀 &nbsp; Actualmente, estoy abierto a nuevas oportunidades laborales.
-- 🌱 &nbsp; También estoy aprendiendo un poco de desarrollo en phyton, algo de Laravel y algo react, un poco de QA para desarrollo de software y algo de BI.
+- 🌱 &nbsp; Actualmente, estoy enfocado en desarrollar mis hablididades de programación que conozco y aprender y dominar diferentes tecnologías.
 - 💬 &nbsp; Pregúntame sobre cualquier cosa relacionada con la tecnología y Desarrollo, si puedo ayudar y sé sobre el Tema, estaré encantado de colaborar.
 - 📫 &nbsp; No dudes en ponerte en contacto conmigo en mi página de LinkedIn o por Correo.
 - 📝 &nbsp; Echa un vistazo a mi currículum sin problemas en mi LinkedIn.
