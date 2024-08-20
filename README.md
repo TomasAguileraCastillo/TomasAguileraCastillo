@@ -24,14 +24,12 @@
 <a href=''>
   <img align='left' alt="twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" height='18px'/>
 </a>
-<!--kaglee-->
-<a href=''>
-  <img alt="kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height='18px'/>
-</a>
+
+
 
 <!--fin Redes-->
 <!--gif animado-->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
 <!--fin gif animado-->
 
 <!--sobre mi -->
