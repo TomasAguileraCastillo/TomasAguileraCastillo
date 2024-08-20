@@ -45,9 +45,7 @@ trato de equilibrar mi tiempo con algo de :swimmer: natación bicicleta, tambien
 o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
 
 <!--fin Redes-->
-<!--gif animado-->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
-<!--fin gif animado-->
+
 
 <!-- fin -->
 <br>
