@@ -66,7 +66,6 @@ o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
 <h2 align="left"> 🔨 Mis Habilidades con Lenguajes y Herramientas de Programacion: 
 <br><br>
 </h2>
- 
 ###
 ***********************************************************************************************************************************
  <p align="center">
