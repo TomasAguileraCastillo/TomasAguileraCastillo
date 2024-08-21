@@ -66,8 +66,7 @@ o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
 <h2 align="left"> 🔨 Mis Habilidades con Lenguajes y Herramientas de Programacion: 
 <br><br>
 </h2>
-###
-***********************************************************************************************************************************
+
  <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="100" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="java" width="65" height="45"/>
