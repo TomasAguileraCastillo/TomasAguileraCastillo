@@ -25,18 +25,20 @@
 <!--sobre mi -->
 ### 🧐 Algo Sobre Mi:
 
-Este es mi perfil de GitHub. Aquí podra ver algunos proyectos de programación y tecnologías. Permíteme mostrar un poco sobre mí.
+Este es mi perfil de GitHub. Aquí podra ver algunos de mis proyectos de programación y tecnologías. 
+Permítame mostrarle un poco sobre mí.
 
-- 🌱 &nbsp; enfocado en desarrollar mis hablididades de programación y aprender y dominar diferentes tecnologías.
-- 💻 he trabjado algunos proyectos de software principalmente en java, algunos con frameworks como spring-boot y tambien algunos con bases de datos como MySQL y PostgresSql. Me gusta trabajar en equipo, colaborando en proyectos interesantes.
+- 🌱 &nbsp; Enfocado en desarrollar mis hablididades de programación y aprender y dominar diferentes tecnologías.
+- 💻 He trabjado algunos Proyectos de Software principalmente en java, algunos con frameworks como spring-boot y tambien algunos con bases de datos como MySQL o PostgresSql.
+  Me gusta trabajar en equipo, colaborando en proyectos interesantes.
 - 📚 &nbsp; Cuando tengo tiempo libre, leo un poco( me gusta Tolkien) y trato de equilibrar mi tiempo
   con algo de :swimmer: natación bicicleta y tambien salir a correr o caminar un poco.
-- :sparkles: tambien sé Soldar, me gusta eso, siempre hay algo que crear o reparar.
+- :sparkles: Tambien sé Soldar, me gusta eso, siempre hay algo que crear o reparar.
 - 📫 &nbsp; No dude en ponerse en contacto, en mi página de LinkedIn o por Correo.
-- 📝 &nbsp; de un vistazo a mi currículum sin problemas en mi LinkedIn.
-- 👀 &nbsp; Actualmente, estoy abierto a nuevas oportunidades laborales.
+- 📝 &nbsp; de un vistazo a mi currículum sin problemas.
+- 👀 &nbsp; Actualmente, estoy abierto a nuevas oportunidades laborales o proyectos.
 
-- Y si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, no dudes en contactarme a través de los siguientes canales:
+- Y si tiene alguna pregunta, sugerencia o simplemente quieres conectarte, no lo dude, lo puedes hacer a través de los siguientes canales:
 
  <!--redes Sociales-->
 <h3>Conecte conmigo: </h3>
@@ -44,8 +46,7 @@ Este es mi perfil de GitHub. Aquí podra ver algunos proyectos de programación 
       <a href='https://www.linkedin.com/in/TomásAguilera/'>
         <img alt="linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height='30'/>
       </a>
-    
-  
+     
   <span></span>
 <div>
   <p>
@@ -62,12 +63,10 @@ o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
 <br>
 
 ##
-<h2 align="left"> 🔨 Lenguajes y Herramientas: 
+<h2 align="left"> 🔨 Mis Habilidades con Lenguajes y Herramientas de Programacion: 
 <br><br>
 </h2>
-
-<h3> Tengo algunos desarrollos con Lenguajes y Frameworks:</h3>
-
+ 
 ###
 ***********************************************************************************************************************************
  <p align="center">
