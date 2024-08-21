@@ -25,14 +25,15 @@
 <!--sobre mi -->
 ### 🧐 Algo Sobre Mi:
 
-- 👀 &nbsp; Actualmente, estoy abierto a nuevas oportunidades laborales.
 - 🌱 &nbsp; enfocado en desarrollar mis hablididades de programación y aprender y dominar diferentes tecnologías.
-- 👀 &nbsp; Actualmente, estoy abierto a nuevas oportunidades laborales.
+- 💻 he desarrollado alguns proyectos con Java 
 - 📫 &nbsp; No dude en ponerse en contacto, en mi página de LinkedIn o por Correo.
 - 📝 &nbsp; de un vistazo a mi currículum sin problemas en mi LinkedIn.
 - 📚 &nbsp; Cuando tengo tiempo libre, leo un poco( me gusta Tolkien), trato de equilibrar mi tiempo
   con algo de :swimmer: natación bicicleta y tambien salir a correr o caminar un poco.
 - :sparkles: tambien sé Soldar, me gusta eso, siempre hay algo que crear o reparar.
+- 👀 &nbsp; Actualmente, estoy abierto a nuevas oportunidades laborales.
+
 
  <!--redes Sociales-->
 <h3>Conecte conmigo: </h3>
