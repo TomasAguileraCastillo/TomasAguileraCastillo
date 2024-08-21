@@ -25,6 +25,8 @@
 <!--sobre mi -->
 ### 🧐 Algo Sobre Mi:
 
+Este es mi perfil de GitHub. Aquí podras ver algunos proyectos de programación y la tecnología. Permíteme mostrar un poco sobre mí
+
 - 🌱 &nbsp; enfocado en desarrollar mis hablididades de programación y aprender y dominar diferentes tecnologías.
 - 💻 he desarrollado alguns proyectos con Java 
 - 📫 &nbsp; No dude en ponerse en contacto, en mi página de LinkedIn o por Correo.
@@ -33,6 +35,9 @@
   con algo de :swimmer: natación bicicleta y tambien salir a correr o caminar un poco.
 - :sparkles: tambien sé Soldar, me gusta eso, siempre hay algo que crear o reparar.
 - 👀 &nbsp; Actualmente, estoy abierto a nuevas oportunidades laborales.
+
+- he trabjado algunos proyectos de software principalmente en java, javascript, algunos con frameworks como spring-boot y tambien con bases de datos como MySQL y PostgresSql. Me gusta trabajar en equipo, colaborando en proyectos interesantes.
+- Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, no dudes en contactarme a través de los siguientes canales:
 
 
  <!--redes Sociales-->
@@ -100,8 +105,6 @@ o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
 ###
 ***********************************************************************************************************************************
 
-
-
  <p align="center"> 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"  width="90" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"  width="89" height="55"/>
@@ -111,3 +114,5 @@ o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
 
 ###
 ***********************************************************************************************************************************
+
+¡Gracias por visitar mi perfil de GitHub! ojala y encuentre algo interesante aquí y se pueda realizar algo en conjunto.
