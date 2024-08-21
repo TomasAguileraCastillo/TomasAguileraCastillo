@@ -25,20 +25,18 @@
 <!--sobre mi -->
 ### 🧐 Algo Sobre Mi:
 
-Este es mi perfil de GitHub. Aquí podras ver algunos proyectos de programación y la tecnología. Permíteme mostrar un poco sobre mí
+Este es mi perfil de GitHub. Aquí podra ver algunos proyectos de programación y tecnologías. Permíteme mostrar un poco sobre mí.
 
 - 🌱 &nbsp; enfocado en desarrollar mis hablididades de programación y aprender y dominar diferentes tecnologías.
-- 💻 he desarrollado alguns proyectos con Java 
-- 📫 &nbsp; No dude en ponerse en contacto, en mi página de LinkedIn o por Correo.
-- 📝 &nbsp; de un vistazo a mi currículum sin problemas en mi LinkedIn.
-- 📚 &nbsp; Cuando tengo tiempo libre, leo un poco( me gusta Tolkien), trato de equilibrar mi tiempo
+- 💻 he trabjado algunos proyectos de software principalmente en java, algunos con frameworks como spring-boot y tambien algunos con bases de datos como MySQL y PostgresSql. Me gusta trabajar en equipo, colaborando en proyectos interesantes.
+- 📚 &nbsp; Cuando tengo tiempo libre, leo un poco( me gusta Tolkien) y trato de equilibrar mi tiempo
   con algo de :swimmer: natación bicicleta y tambien salir a correr o caminar un poco.
 - :sparkles: tambien sé Soldar, me gusta eso, siempre hay algo que crear o reparar.
+- 📫 &nbsp; No dude en ponerse en contacto, en mi página de LinkedIn o por Correo.
+- 📝 &nbsp; de un vistazo a mi currículum sin problemas en mi LinkedIn.
 - 👀 &nbsp; Actualmente, estoy abierto a nuevas oportunidades laborales.
 
-- he trabjado algunos proyectos de software principalmente en java, javascript, algunos con frameworks como spring-boot y tambien con bases de datos como MySQL y PostgresSql. Me gusta trabajar en equipo, colaborando en proyectos interesantes.
-- Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, no dudes en contactarme a través de los siguientes canales:
-
+- Y si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, no dudes en contactarme a través de los siguientes canales:
 
  <!--redes Sociales-->
 <h3>Conecte conmigo: </h3>
