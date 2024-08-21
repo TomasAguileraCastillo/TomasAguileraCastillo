@@ -41,7 +41,7 @@ Permítame mostrarle un poco sobre mí.
 - Y si tiene alguna pregunta, sugerencia o simplemente quieres conectarte, no lo dude, lo puedes hacer a través de los siguientes canales:
 
  <!--redes Sociales-->
-<h3>Conecte conmigo: </h3>
+<h3>Contactese Conmigo: </h3>
 <div>en Mi : 
       <a href='https://www.linkedin.com/in/TomásAguilera/'>
         <img alt="linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height='30'/>
@@ -62,12 +62,13 @@ o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
 <!-- fin -->
 <br>
 
-
 ##
+---
 <h2 align="left"> 🔨 Mis Habilidades con Lenguajes y Herramientas de Programacion:
 </h2>
 
 ###
+---
 
  <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="100" height="45"/>
@@ -78,8 +79,10 @@ o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width="55" height="35"/>
  </p>
 
+
 ###
-***********************************************************************************************************************************
+***
+
 
 
 <h3>También tengo conocimientos en:</h3>
