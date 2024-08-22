@@ -114,6 +114,22 @@ o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
 
 ###
 ***********************************************************************************************************************************
-
+<p align="center">
 ¡Gracias por visitar mi perfil de GitHub! ojala y encuentre algo interesante aquí y se pueda realizar algo en conjunto.
+</p>
 
+<p align="center" >
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasaguileracastillo&show_icons=true&locale=es&theme=radical&layout=compact" alt="Tomás Aguilera" width="24%" height="100%" />
+&nbsp;
+<img  src="https://github-readme-stats.vercel.app/api?username=tomasaguileracastillo&show_icons=true&locale=es&theme=radical" alt="Tomás Aguilera" width="32%" height="100%" />
+&nbsp;
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tomasaguileracastillo&theme=radical" alt="Tomás Aguilera" width="34%" height="100%" />
+&nbsp;
+</p>
+
+<!--<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tomasaguileracastillo&theme=tokyonight&column=-1&row=1" alt="Tomás Aguilera" />
+  </a> 
+</p>-->
