@@ -1,6 +1,6 @@
 <!-- encabezado-->
-<h1 align="left" >:wave: Hola! Soy Tomás Aguilera </h1> 
-
+<h1 align="left" >:wave: Hola! Soy Tomás Aguilera. </h1> 
+  
 <!--inicio cinta -->
 <p align="left">
   <!--visitas de perfil-->
