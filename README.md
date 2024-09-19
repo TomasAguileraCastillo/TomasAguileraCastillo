@@ -92,7 +92,7 @@ o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
  <p align="center">   
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="" width="75" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mysql" width="75" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="mongodb" width="40" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="mongodb" width="40" height="45" />
   <img src="https://excelaprendizaje.files.wordpress.com/2018/03/que-es-vba.jpg?w=739&h=452&crop=1" alt="mongodb" width="80" height="45"/>
  </p>
 
