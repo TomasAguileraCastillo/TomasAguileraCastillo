@@ -120,14 +120,8 @@ o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
 
 <p align="center" >
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TomasAguileraCastillo&
-  show_icons=true&
-  locale=es&
-  theme=radical&
-  layout=compact" 
-  alt="Tomás Aguilera" 
-  width="24%" height="100%" />
-&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TomasAguileraCastillo&show_icons=true&locale=es&theme=radical&layout=compact" alt="Tomás Aguilera" width="24%" height="100%" />
+  &nbsp;
 <img  src="https://github-readme-stats.vercel.app/api?username=tomasaguileracastillo&show_icons=true&locale=es&theme=radical" alt="Tomás Aguilera" width="32%" height="100%" />
 &nbsp;
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tomasaguileracastillo&theme=radical" alt="Tomás Aguilera" width="34%" height="100%" />
@@ -137,14 +131,19 @@ o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
 <p>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tomasaguileracastillo&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=tomasaguileracastillo&
+      show_icons=true&
+      theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tomasaguileracastillo&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api?username=tomasaguileracastillo&
+      show_icons=true"
+      media="  (prefers-color-scheme: light), 
+               (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=tomasaguileracastillo&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tomasaguileracastillo&
+      show_icons=true" />
   </picture> 
 </p>
 
