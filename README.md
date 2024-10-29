@@ -128,6 +128,23 @@ o a Mi correo [tomasaguilerac@live.cl](tomasaguilerac@live.cl)
 &nbsp;
 </p>
 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tomasaguileracastillo&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tomasaguileracastillo&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasaguileracastillo&show_icons=true" />
+</picture>
+
+
+
+
+
 <!--<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tomasaguileracastillo&theme=tokyonight&column=-1&row=1" alt="Tomás Aguilera" />
