@@ -4,7 +4,7 @@
 <!--inicio cinta -->
 <p align="left">
   <!--visitas de perfil-->
-  <a href="https://github.com/TomasAguileraCastillo/TomasAguileraCastillo">
+  <a href="https://github.com/TomasAguileraCastillo/TomasAguileraCastillo" >
     <img src="https://komarev.com/ghpvc/?username=TomasAguileraCastillo" alt="page views" />
   </a>
     <!--stackoverflow-->
