@@ -5,7 +5,7 @@
 <p align="left">
   <!--visitas de perfil-->
   <a href="https://github.com/TomasAguileraCastillo/TomasAguileraCastillo" >
-    <img src="https://komarev.com/ghpvc/?username=TomasAguileraCastillo" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=TomasAguileraCastillo" alt="page views"/>
   </a>
     <!--stackoverflow-->
   <a href="https://stackoverflow.com/users/22093901">
